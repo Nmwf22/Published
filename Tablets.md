@@ -1,5 +1,7 @@
 ---
 share: "true"
+dg-publish: true
+dg-home: true
 ---
 
 # Wymagania
@@ -37,7 +39,6 @@ ała
 ## Akcesoria
 - szukanie akcesoriów do iPadów może być uciążliwe ze względu na dość beznadziejny naming scheme; jeśli nie widzisz wyników, warto zmienić nazwę w wyszukiwaniu
 	- przykładowo iPad Air 2022 to również iPad Air 10.9 oraz iPad Air 5
-
 # iPad 9th gen / 10.2 | 3 748 PLN
 https://www.apple.com/pl/shop/buy-ipad/ipad-10-2/256gb-gwiezdna-szaro%C5%9B%C4%87-wifi
 - dużo folii
