@@ -54,7 +54,7 @@ https://www.apple.com/pl/shop/buy-ipad/ipad-10-2/256gb-gwiezdna-szaro%C5%9B%C4%8
 ### adnotacje
 - ból rysika 1st gen
 - na górze i dole dużo niewykorzystanego miejsca
- ![[Tablets-1695077053911.jpeg|Tablets-1695077053911.jpeg]]
+![[Tablets-1695082428471.jpeg|Tablets-1695082428471.jpeg]]
 - port lightning – konieczność osobnego przewodu do ładowania
 - lepsze opcje nie są o wiele droższe
 
