@@ -64,7 +64,7 @@ https://www.apple.com/pl/shop/buy-ipad/ipad-10-2/256gb-gwiezdna-szaro%C5%9B%C4%8
 	- https://allegro.pl/listing?string=folia+ochronna+paperlike+ipad+9
 - Październik 2021
 - 10.2", IPS, 500 nitów
-- _Apple Pencil 1st gen_
+- ==Apple Pencil 1st gen==
 - Touch ID
 - 256 GB / ==3 GB==, bez miejsca na kartę pamięci
 - A13 Bionic / 8557 mAh
@@ -188,7 +188,7 @@ https://www.samsung.com/pl/tablets/galaxy-tab-s9/buy/
 	- (!)
 - **S Pen**, dołączony w zestawie
 - Czytnik linii papilarnych, face unlock
-- 256 GB / 12 GB, **możliwość rozszerzenia kartą pamięci (do +  TB)**
+- 256 GB / 12 GB, **możliwość rozszerzenia kartą pamięci (do +1TB)**
 - Snapdragon 8 Gen 2, 8400 mAh
 	- overkill
 - Port USB-C, **45 W**
