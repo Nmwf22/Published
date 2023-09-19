@@ -189,6 +189,7 @@ https://www.samsung.com/pl/tablets/galaxy-tab-s9/buy/
 - **S Pen**, dołączony w zestawie
 - Czytnik linii papilarnych, face unlock
 - 256 GB / 12 GB, **możliwość rozszerzenia kartą pamięci (do +1TB)**
+	- tutaj otwiera się możliwość rozważenia opcji 128 / 8 za 700 mniej (tylko dla S9) i dokupienia karty pamięci, ale eh
 - Snapdragon 8 Gen 2, 8400 mAh
 	- overkill
 - Port USB-C, **45 W**
