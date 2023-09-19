@@ -34,7 +34,7 @@ dg-home: true
 	- dla komfortowego korzystania na zewnątrz preferowanie 500 i wyżej
 - istnieją tańsze alternatywy dla Apple Pencil, aczkolwiek będą one zauważalnie gorsze
 	- Apple Pencil 1st gen ładuje się przez wpięcie przewodu w rysik, nie przez przystawienie go do boku tabletu
-![[Tablets-1695077833184.jpeg|Tablets-1695077833184.jpeg]]
+![Tablets-1695077833184.jpeg](Tablets-1695077833184.jpeg)
 ała
 ## Akcesoria
 - szukanie akcesoriów do iPadów może być uciążliwe ze względu na dość beznadziejny naming scheme; jeśli nie widzisz wyników, warto zmienić nazwę w wyszukiwaniu
@@ -54,7 +54,7 @@ https://www.apple.com/pl/shop/buy-ipad/ipad-10-2/256gb-gwiezdna-szaro%C5%9B%C4%8
 ### adnotacje
 - ból rysika 1st gen
 - na górze i dole dużo niewykorzystanego miejsca
-![[Tablets-1695082428471.jpeg|Tablets-1695082428471.jpeg]]
+![Tablets-1695082801461.jpeg](./image/Tablets-1695082801461.jpeg)
 - port lightning – konieczność osobnego przewodu do ładowania
 - lepsze opcje nie są o wiele droższe
 
