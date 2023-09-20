@@ -198,9 +198,12 @@ https://www.samsung.com/pl/tablets/galaxy-tab-s9/buy/
 - **^do tabletu, przynajmniej aktualnie, można dokupić Galaxy Watch 5 Pro, o wartości ponad 1500 PLN, za 1 PLN; teoretyczna możliwość odsprzedania w celu obniżenia kosztów**
 - **bezkonkurencyjny ekran, 120 Hz**
 - ==nie ma cegiełki do ładowania w pudełku==
-	- https://www.x-kom.pl/p/683883-ladowarka-do-smartfonow-anker-nano-ii-gan-65w.html#Opinie
-	- https://www.mediaexpert.pl/smartfony-i-zegarki/akcesoria-do-telefonow/ladowarki-sieciowe/witryna-vigo-90-pelna-90-35-32-szary-bialy-polysk-2
-	- https://www.x-kom.pl/p/603419-ladowarka-do-smartfonow-silver-monkey-ladowarka-sieciowa-gan-65w-usb-c-pd-usb-a-qc-30.html
+	- jedno z poniższych oraz 3. (180 ~ 210 PLN):
+	  https://www.x-kom.pl/p/683883-ladowarka-do-smartfonow-anker-nano-ii-gan-65w.html#Opinie
+	  lub
+	  https://www.x-kom.pl/p/603419-ladowarka-do-smartfonow-silver-monkey-ladowarka-sieciowa-gan-65w-usb-c-pd-usb-a-qc-30.html
+	  oraz (długość wedle preferencji)
+	  https://www.x-kom.pl/p/732313-kabel-usb-silver-monkey-kabel-usb-c-30-100w-05-m.html
 	- jeśli Twój laptop ma możliwość ładowania przez USB-C, opcja 100 W może być lepszym wyborem – jedna ładowarka do wszystkiego
 - Samsung DeX: możliwość korzystania z tabletu w sposób podobny do laptopa
 - prawdopodobnie dłuższe wsparcie aktualizacjami w porównaniu do reszty Androidów
