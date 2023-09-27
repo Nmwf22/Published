@@ -21,7 +21,7 @@ dg-home: true
 - wymagana ilość RAM-u w tabletach z Androidem będzie większa niż w iPadach; im większe pliki, tym większe wymagania; w tych pierwszych prawdopodobnie 6 GB i więcej
 - brak opcji odblokowywania odciskiem palca / skanem twarzy może być bardzo uciążliwy, jeśli planujesz zabezpieczyć tablet hasłem, co raczej jest rekomendowane
 - mAh: pojemność baterii; z reguły iOS ma lepsze życie na baterii na jednostkę
-- w iPadach opcja miejsca na kartę SIM kosztuje około 1 000 PLN więcej
+- w iPadach opcja miejsca na kartę SIM kosztuje około 1000 PLN więcej
 - ceny nie zawierają klawiatury; jeśli takowej potrzebujesz, zintegrowana byłaby bardziej wygodna, osobne prawdopodobnie byłyby jakościowo lepsze i tańsze
 - port USB-C do ładowania pozwolił by na posiadanie jednej ładowarki do telefonu i tabletu
 - głośniki w iPadach są podobno cudowne
@@ -199,10 +199,10 @@ https://www.samsung.com/pl/tablets/galaxy-tab-s9/buy/
 - **bezkonkurencyjny ekran, 120 Hz**
 - ==nie ma cegiełki do ładowania w pudełku==
 	- jedno z poniższych oraz 3. (180 ~ 210 PLN):
-	  https://www.x-kom.pl/p/683883-ladowarka-do-smartfonow-anker-nano-ii-gan-65w.html#Opinie
+	  https://www.x-kom.pl/p/683883-ladowarka-do-smartfonow-anker-nano-ii-gan-65w.html
 	  lub
 	  https://www.x-kom.pl/p/603419-ladowarka-do-smartfonow-silver-monkey-ladowarka-sieciowa-gan-65w-usb-c-pd-usb-a-qc-30.html
-	  oraz
+	  oraz (długość wedle preferencji)
 	  https://www.x-kom.pl/p/732313-kabel-usb-silver-monkey-kabel-usb-c-30-100w-05-m.html
 	- jeśli Twój laptop ma możliwość ładowania przez USB-C, opcja 100 W może być lepszym wyborem – jedna ładowarka do wszystkiego
 - Samsung DeX: możliwość korzystania z tabletu w sposób podobny do laptopa
@@ -211,12 +211,13 @@ https://www.samsung.com/pl/tablets/galaxy-tab-s9/buy/
 - **rysik porównywalny z Apple Pencil**
 - w zasadzie najgorszą wadą są ograniczenia Androida w porównaniu z iPadOS, aczkolwiek tutaj to może nie być istotne
 ### S9+: +300 PLN
-- ekran 12.4", 950 nitów
+- ekran 12.4" (powierzchnia większa o 27%), 950 nitów
 - bateria: 10090 mAh
+![Tablets-1695822655713.jpeg](../image/Tablets-1695822655713.jpeg)
 ### S9 Ultra: +1300 PLN
-- ekran 14.6", 1750 nitów
+- ekran 14.6" (powierzchnia większa o 76%), 1750 nitów
 - bateria: 11200 mAh
-
+![Tablets-1695822642317.jpeg](../image/Tablets-1695822642317.jpeg)
 # Konkluzja
 - Uniwersalny z najlepszym ekranem – Samsung Galaxy Pad 9 (lub odmiany)
 - Największe możliwości – iPad Air 5
