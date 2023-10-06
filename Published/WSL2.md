@@ -31,8 +31,9 @@ fmhy.pages.dev
 	- Reboot
 - Opcjonalnie pobranie aplikacji Windows Terminal (ładnie integruje cmd, powershell i dystrybucje) z Microsoft Store
 - Pobranie wybranej dystrybucji z terminala / MS Store
-	- lista dostępnych: `wsl.exe --list --online`
-	- (admin) `wsl.exe --install -d [nazwa distro]` 
+	- (admin) `wsl --install`
+	- lista dostępnych: `wsl --list --online`
+	- (admin) `wsl --install -d [nazwa distro]` 
 - Uruchomienie distro poprzez szukajkę w start menu lub przez Windows Terminal
 ![WSL2-1696606660344.jpeg](../image/WSL2-1696606660344.jpeg)
 ![WSL2-1696606682728.jpeg](../image/WSL2-1696606682728.jpeg)
