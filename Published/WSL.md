@@ -7,9 +7,7 @@ https://msit.powerbi.com/view?r=eyJrIjoiODJmYjU4Y2YtM2M0ZC00YzYxLWE1YTktNzFjYmYx
 ## Winget, Choco
 Alternatywą `apt` na Windows jest `winget` oraz `choco` z GUI `WingetUI` – pozwala na automatyczną aktualizację programów.
 	https://learn.microsoft.com/en-us/windows/package-manager/winget/
-	
 	https://chocolatey.org/install
-	
 	https://github.com/marticliment/WingetUI
 ## gsudo
 Uprawnienia administratora dla dowolnego terminala.
