@@ -17,6 +17,14 @@ Uprawnienia administratora dla dowolnego terminala.
 	cmd jako admin: `winget install gsudo`
 ## FMHY
 fmhy.pages.dev
+# Zmiana edycji Windows z Home na Pro
+- Powershell: `irm https://massgrave.dev/get | iex`
+- Akceptacja uprawnień administratora
+- 7
+- 1
+- 1
+- Dalej za instrukcjami
+- Reboot
 # Instalacja
 - Szukajka: Turn Windows features on or off
 	- Włączenie (jeśli nie są włączone): Hyper-V, Virtual Machine Platform, Windows Subsystem for Linux
